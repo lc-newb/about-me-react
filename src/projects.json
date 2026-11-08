@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "About Me",
+    "category": "React"
+  },
+  {
+    "id": 2,
+    "title": "Weather Checker",
+    "category": "Web API"
+  },
+  {
+    "id": 3,
+    "title": "Doodle Board",
+    "category": "React + API"
+  }
+]
